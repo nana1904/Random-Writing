@@ -1,5 +1,5 @@
 Word-Ladders
 ============
 
-C++, BFS, Algorithms, CS106B
+C++,  CS106B
 
