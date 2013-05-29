@@ -1,0 +1,10 @@
+* generation
+** find the most commonly occurring key as initial seed
+** use current seed to get a char from pattern, and append it to article (string)
+** refresh the current seed
+* analyzing
+** read out initial sequence(stored as key, use as seed)
+** read next char to store in the vector of current sequence, until no char
+** refresh the current sequence 
+* data structure
+  pattern is store as a map<string, vector<char> >
